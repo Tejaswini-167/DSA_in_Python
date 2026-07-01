@@ -58,12 +58,12 @@ def is_palindrome(s: str) -> bool:
 ```
 
 ### Practice on LeetCode
-- 167. Two Sum II - Input Array Is Sorted
-- 125. Valid Palindrome
-- 15. 3Sum
-- 11. Container With Most Water
-- 42. Trapping Rain Water
-- 977. Squares of a Sorted Array
+167. Two Sum II - Input Array Is Sorted
+125. Valid Palindrome
+15. 3Sum
+11. Container With Most Water
+42. Trapping Rain Water
+977. Squares of a Sorted Array
 
 ---
 
