@@ -58,12 +58,12 @@ def is_palindrome(s: str) -> bool:
 ```
 
 ### Practice on LeetCode
-167. Two Sum II - Input Array Is Sorted
-125. Valid Palindrome
-15. 3Sum
-11. Container With Most Water
-42. Trapping Rain Water
-977. Squares of a Sorted Array
+- Two Sum II - Input Array Is Sorted - 167
+- Valid Palindrome - 125
+- 3Sum - 14
+- Container With Most Water - 11
+- Trapping Rain Water - 42
+- Squares of a Sorted Array - 977
 
 ---
 
@@ -110,11 +110,11 @@ def move_zeroes(nums):
 ```
 
 ### Practice on LeetCode
-- 26. Remove Duplicates from Sorted Array
-- 27. Remove Element
-- 283. Move Zeroes
-- 80. Remove Duplicates from Sorted Array II
-- 75. Sort Colors (Dutch National Flag — a 3-pointer variant)
+-  Remove Duplicates from Sorted Array - 26
+-  Remove Element - 27
+-  Move Zeroes - 283
+-  Remove Duplicates from Sorted Array II - 80
+-  Sort Colors (Dutch National Flag — a 3-pointer variant) - 75
 
 ---
 
@@ -167,11 +167,11 @@ def detect_cycle(head):
 ```
 
 ### Practice on LeetCode
-- 141. Linked List Cycle
-- 142. Linked List Cycle II
-- 876. Middle of the Linked List
-- 202. Happy Number (Floyd's cycle detection on numbers, not a list!)
-- 234. Palindrome Linked List (uses middle-finding + reversal)
+-  Linked List Cycle - 141
+-  Linked List Cycle II - 142
+-  Middle of the Linked List - 876
+-  Happy Number (Floyd's cycle detection on numbers, not a list!) - 202
+-  Palindrome Linked List (uses middle-finding + reversal) - 234
 
 ---
 
@@ -227,12 +227,12 @@ def min_subarray_len(target, nums):
 ```
 
 ### Practice on LeetCode
-- 3. Longest Substring Without Repeating Characters
-- 209. Minimum Size Subarray Sum
-- 76. Minimum Window Substring
-- 424. Longest Repeating Character Replacement
-- 567. Permutation in String
-- 1004. Max Consecutive Ones III
+-  Longest Substring Without Repeating Characters - 3
+-  Minimum Size Subarray Sum - 209
+-  Minimum Window Substring - 76
+-  Longest Repeating Character Replacement - 424
+-  Permutation in String - 567
+-  Max Consecutive Ones III - 1004
 
 ---
 
@@ -283,12 +283,12 @@ def is_subsequence(s: str, t: str) -> bool:
 ```
 
 ### Practice on LeetCode
-- 88. Merge Sorted Array
-- 21. Merge Two Sorted Lists
-- 392. Is Subsequence
-- 986. Interval List Intersections
-- 349. Intersection of Two Arrays
-- 415. Add Strings
+-  Merge Sorted Array - 88
+-  Merge Two Sorted Lists - 21
+-  Is Subsequence - 392
+-  Interval List Intersections - 986
+-  Intersection of Two Arrays - 349
+-  Add Strings - 415
 
 ---
 
@@ -304,16 +304,16 @@ def is_subsequence(s: str, t: str) -> bool:
 
 ## Suggested Order to Solve
 
-1. 125. Valid Palindrome
-2. 167. Two Sum II
-3. 26. Remove Duplicates from Sorted Array
-4. 283. Move Zeroes
-5. 11. Container With Most Water
-6. 15. 3Sum
-7. 141. Linked List Cycle
-8. 876. Middle of the Linked List
-9. 3. Longest Substring Without Repeating Characters
-10. 209. Minimum Size Subarray Sum
-11. 88. Merge Sorted Array
-12. 42. Trapping Rain Water (harder — good capstone)
+1.  Valid Palindrome - 125
+2.  Two Sum II - 167
+3.  Remove Duplicates from Sorted Array - 26
+4.  Move Zeroes - 283
+5.  Container With Most Water - 11
+6.  3Sum - 15
+7.  Linked List Cycle - 141
+8.  Middle of the Linked List - 876
+9.  Longest Substring Without Repeating Characters - 3
+10. Minimum Size Subarray Sum - 209
+11. Merge Sorted Array- 88
+12. Trapping Rain Water (harder — good capstone) - 42
 
